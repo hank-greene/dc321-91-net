@@ -1,7 +1,8 @@
 # arkime install
-https://arkime.com/install
 
-https://arkime.com/install#install-and-configure-opensearch
+~~https://arkime.com/install~~
+
+~~https://arkime.com/install#install-and-configure-opensearch~~
 
 export OPENSEARCH_INITIAL_ADMIN_PASSWORD="PleaseChangeM3!"
 
