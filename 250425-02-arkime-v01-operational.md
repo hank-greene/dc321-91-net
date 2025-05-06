@@ -1,5 +1,5 @@
 
-https://www.atlantic.net/dedicated-server-hosting/how-to-install-arkime-moloch-packet-capture-tool-on-ubuntu-22-04/
+~~https://www.atlantic.net/dedicated-server-hosting/how-to-install-arkime-moloch-packet-capture-tool-on-ubuntu-22-04/~~
 
 
 

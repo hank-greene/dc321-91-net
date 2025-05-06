@@ -1,5 +1,5 @@
 # notes from 
-https://www.digitalocean.com/community/tutorials/how-to-configure-suricata-as-an-intrusion-prevention-system-ips-on-ubuntu-20-04
+~~https://www.digitalocean.com/community/tutorials/how-to-configure-suricata-as-an-intrusion-prevention-system-ips-on-ubuntu-20-04~~
 
 ## ids
 
@@ -68,29 +68,10 @@ cp -v -p  /etc/suricata/suricata.yaml /etc/suricata/suricata.yaml.orig
 # 
 <details>
 <summary><b>emerging threats </b></summary>
-1. found here, https://rules.emergingthreats.net/OPEN_download_instructions.html <br>
+1. found here, ~~https://rules.emergingthreats.net/OPEN_download_instructions.html~~ <br>
 2. cronjob to download emerging threats and update suricata <br>
-    - https://rules.emergingthreats.net/ <br>
-    - https://www.proofpoint.com/us/products/advanced-threat-protection/et-intelligence <br>
-    - https://www.ipfire.org/docs/configuration/firewall/ips/rulesets <br>
+    - ~~https://rules.emergingthreats.net/~~ <br>
+    - ~~https://www.proofpoint.com/us/products/advanced-threat-protection/et-intelligence~~ <br>
+    - ~~https://www.ipfire.org/docs/configuration/firewall/ips/rulesets~~ <br>
 3. /var/log/suricata/eve.json packs a lot of data <br>
-</details>
-
-
-# 
-<details>
-<summary><b>test surciata </b></summary>
-tbd
-</details>
-
-
-# 
-<details>
-<summary><b> </b></summary>
-</details>
-
-
-# 
-<details>
-<summary><b> </b></summary>
 </details>

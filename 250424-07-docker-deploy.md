@@ -17,7 +17,7 @@ pdee@pdee:~$ sudo docker exec -it enp2s0 /usr/share/elasticsearch/bin/elasticsea
 eyJ2ZXIiOiI4LjE0LjAiLCJhZHIiOlsiMTcyLjE4LjAuMjo5MjAwIl0sImZnciI6IjM0MzQ4ZGM1ZjA4NDRjMjdkNWNiZmU2ZmM3OWFjMzI2N2FlN2NjZmNkMjhjZGNkZTc0OGM2Zjk1ZDhlNmFkMWUiLCJrZXkiOiJpX1R3YUpZQnpFcDM1b1A3cDlLaDpCdmRCSnR1dHZBSjgwUUpZNl9vQ05nIn0=
 
 
-https://www.elastic.co/docs/deploy-manage/deploy/self-managed/install-elasticsearch-docker-basic
+~~https://www.elastic.co/docs/deploy-manage/deploy/self-managed/install-elasticsearch-docker-basic~~
 
 
 $ curl -k --user "elastic:-yPRx8=wAMCHgNgdf=iB" https://localhost:9200/_cat/health
