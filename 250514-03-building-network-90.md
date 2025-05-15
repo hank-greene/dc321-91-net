@@ -7,6 +7,7 @@ lan ip 10.10.90.1
 </pre>
 
 # blk 89.94 hardware stats
+## mother board NIC
 <pre>
 blk@blk:~$ sudo lshw -class network
   *-network
@@ -30,4 +31,13 @@ blk@blk:~$ sudo lshw -class network
 
 <pre>
 steps ...
+</pre>
+
+# addded USB Ethernet interface
+<pre>
+blk@blk:~$ sudo lshw -class network -short
+H/W path         Device           Class          Description
+============================================================
+/0/100/19        eno1             network        82579LM Gigabit Network Connection (Lewisville)
+/4               enx7cf17ed9785c  network        Ethernet interface
 </pre>
