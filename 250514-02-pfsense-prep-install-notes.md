@@ -13,6 +13,9 @@ https://netosec.com/install-pfsense-flash-drive/
 
 # pfsense images
 https://repo.ialab.dsu.edu/pfsense/
+https://atxfiles.netgate.com/mirror/downloads/
+
+
 
 # ...
 tr9210 > ls -l
@@ -31,5 +34,5 @@ tr9210 > shasum -a 256 pfSense-CE-memstick-2.7.2-RELEASE-amd64.img.gz
 tr9210 > cat pfSense-CE-memstick-2.7.2-RELEASE-amd64.img.gz.sha256
 SHA256 (pfSense-CE-memstick-2.7.2-RELEASE-amd64.img.gz) = 
 
-7c68b40c02f06f17146e2f1d5899e2f4a2bcfd98803f06fef8ecf3e2d0f63dcb
+77c68b40c02f06f17146e2f1d5899e2f4a2bcfd98803f06fef8ecf3e2d0f63dcb
 
